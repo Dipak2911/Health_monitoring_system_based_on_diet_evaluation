@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "216487653078",
+    "firebase_url": "https://drmv-da710.firebaseio.com",
+    "project_id": "drmv-da710",
+    "storage_bucket": "drmv-da710.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216487653078:android:13b5e22986ee9b4c6da377",
+        "android_client_info": {
+          "package_name": "com.example.drmv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216487653078-nit4bkt64jrdqscn0tl1mdlb1q05uass.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.drmv",
+            "certificate_hash": "60738907ba8911f0e4953d9049da684c8e9f707f"
+          }
+        },
+        {
+          "client_id": "216487653078-p2jn84qc4tsprl0bg8uk7rat2qlrcmho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCojit7Mw0SyVqSQYq0oV9oniLuHjHXoW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216487653078-p2jn84qc4tsprl0bg8uk7rat2qlrcmho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
